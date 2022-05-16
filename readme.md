@@ -288,6 +288,8 @@ In this example we use the store to toggle darkmode
 
 
 <br>
+
+
 ### Alpin Plugins
 
 In this case, using the x-mask plugin. 
